@@ -20,7 +20,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-# A FileCollection to model the output of a data_deannotation
+# A FileCollection to model the output of a data_scrubbing
 class DataScrubbingOutput < FileCollection
 
   Revision_info=CbrainFileRevision[__FILE__] #:nodoc:
